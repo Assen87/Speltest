@@ -14,7 +14,7 @@ int main()
 	  std::cout << "It's larger then 1" << std::endl;
   }
 
-  for (double i = 0; i < 5; i++)
+  for (int i = 0; i < 5; i++)
   {
 	  std::cout << "HOHOHO" << std::endl;
 	
