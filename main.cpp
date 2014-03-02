@@ -14,6 +14,11 @@ int main()
 	  std::cout << "It's larger then 1" << std::endl;
   }
 
+  for (i = 0; i < 5; i++)
+  {
+	  std::cout << "HOHOHO" << std::endl;
+	
+  }
 
   std::cin.ignore();
   return 0;
