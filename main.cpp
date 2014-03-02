@@ -12,5 +12,5 @@ int main()
 
 void printhello()
 {
-  std::cout << "Ich habe alcohol getränken!" << std::endl;
+  std::cout << "Ich habe alcohol getrunken!" << std::endl;
 }
